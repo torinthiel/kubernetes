@@ -32,4 +32,12 @@ and type `make`. This should generate X.509 keys and certificates for next steps
 All the above come with `*.key` and `*.crt` having key and certificate respectively,
 as well as some intermediate files.
 
+
+Downloading binaries
+--------------------
+
+Run the supplied `./setup.sh` to download and uncompress the needed binary files.
+
+* etcd and etcdctl
+
 [//]: # ( vim: set tw=100: )

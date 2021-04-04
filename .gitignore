@@ -4,3 +4,7 @@
 *.csr
 *.crt
 *.srl
+
+.downloads/
+etcd
+etcdctl
